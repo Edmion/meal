@@ -5,10 +5,12 @@
 
 #### 软件架构
 软件架构说明
-![输入图片说明](https://foruda.gitee.com/images/1668336077434837745/26869825_9809381.png "屏幕截图")
+![jiegou](https://user-images.githubusercontent.com/74487002/201518796-10891e29-eaec-484a-8afd-e84c03e015ed.png)
+
 
 #### 项目后端界面
-![输入图片说明](back.jpg)
+![back](https://user-images.githubusercontent.com/74487002/201518815-4cd681ea-5480-4ecd-aaab-7b51d8312e87.jpg)
+
 
 #### 项目前端界面（手机端）
-![输入图片说明](https://foruda.gitee.com/images/1668336303996902950/1ed4db1a_9809381.png "屏幕截图")
+![front](https://user-images.githubusercontent.com/74487002/201518818-59d2bf1a-60ce-4357-b851-b6620d9bbb1a.png)
