@@ -58,7 +58,7 @@ public class WebMvcConfig extends WebMvcConfigurationSupport {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.itheima.reggie.controller"))
+                .apis(RequestHandlerSelectors.basePackage("com.meals.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }
