@@ -8,7 +8,8 @@
 ![输入图片说明](https://foruda.gitee.com/images/1668336077434837745/26869825_9809381.png "屏幕截图")
 
 #### 项目后端界面
-![输入图片说明](https://foruda.gitee.com/images/1668336238951051526/111e1e83_9809381.png "屏幕截图")
+![1](https://user-images.githubusercontent.com/74487002/204126211-1866aeb5-23bc-4e1c-a62a-2e76ec6abe60.jpg)
+
 
 #### 项目前端界面（手机端）
 ![输入图片说明](https://foruda.gitee.com/images/1668336303996902950/1ed4db1a_9809381.png "屏幕截图")
